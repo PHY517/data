@@ -1,1 +1,1 @@
-Synthetic teaching datasets generated with NumPy random seed 517. Each file corresponds to the numbered section in PHY517_General_Data_Analysis.docx. Units are included in column names where applicable.
+Each file corresponds to the numbered section in class. Units are included in column names where applicable.
